@@ -32,7 +32,7 @@ I'm a backend engineer and data scientist passionate about building fast, scalab
 
 ## 💼 Experience
 
-- **SpeakX** – Data Science / Backend Intern  
+- **SpeakX** – Data Scientist / Backend Developer  
   ⚙️ Go, Node.js, PostgreSQL, gRPC, Prometheus, OpenTelemetry  
 
 - **Network18** – Machine Learning Intern  
