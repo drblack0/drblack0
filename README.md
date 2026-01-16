@@ -31,6 +31,13 @@ I'm a backend engineer and data scientist passionate about building fast, scalab
 
 
 ## 💼 Experience
+- **Socialsense** – SDE 
+  ⚙️ Python (FastAPI), MongoDB, RabbitMQ, Azure, Docker, CI/CD  
+
+  * Architected the migration of core data structures from PostgreSQL to **MongoDB** to support high-scale multi-tenant environments.
+  * Developed a distributed data ingestion engine for the Socialsense platform, leveraging **RabbitMQ** for asynchronous processing.
+  * Took full ownership of **hiringforms.io**, managing the backend architecture and end-to-end deployment on Azure App Services.
+  * Leading a cross-functional team, implementing engineering best practices including branch protection rules and automated CI/CD workflows.
 
 - **SpeakX** – Data Scientist / Backend Developer  
   ⚙️ Go, Node.js, PostgreSQL, gRPC, Prometheus, OpenTelemetry  
